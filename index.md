@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/s05410327/thu10721350/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s05410327/thu10721350/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+		<meta charset="utf-8">
+	<title>
+		商務網站設計第二組
+	</title>
+</head>
+<body>
+		
+	<h1>從國小學童身上看出現代生活習慣，到底改變了我們多少！</h1>
+	<h6>2019/04/25 報導 / 張仁杰、林勝傑、黃俊銪</h6>
+	<img src="data/p1.jpg" width="800" style="display:block; margin:auto" />
+	<p align="center"><b>隨著時代快速的變遷，科技日新月異的進步，人們的生活作息、飲食文化都發生了不可小覷的變化。仔細分析衛生署每年公佈的國人十大死因，
+			<br>可發現幾乎都與飲食習慣有關。比方說：惡性腫瘤、心臟疾病、腦血管疾病、糖尿病。其中，大多都跟飲食習慣不良有關。
+			<br>本篇報導蒐集了近十年以來國小學童的身體變化，一起觀察這些環境改變究竟對我們的孩童造成了那些影響！</b></p>
+			<img src="data/p2.jpg" width="800" style="display:block; margin:auto" />
+			<h5 align="center">全國國小近十年過胖孩童比例圖<br></h5>	
+	<p align="center"><b>近十年來，西方飲食習慣逐漸融入台灣，小朋友對速食及含糖量、熱量偏高的飲食已經習慣，加上生活壓力大、經濟壓力重，
+			<br>家長在長期忽略兒童生活習慣及飲食管理的狀況下，造成了孩童飲食比例失調，過胖的案例。甚至有許多小兒糖尿病、
+				高血壓、高血脂或氣喘問題發生陸續在門診可見。</b></p>
+	<p><b>根據上述的數據顯示，台灣平均每四位兒童就有一位有過重的情形，若是在小學時期就過重，長大後繼續肥胖的機率則高達40到50%，
+			<br>若是高中時期發胖，成人後發胖的機率就更高了！而相反的，近幾年過瘦、適中的孩童比例也在逐年下降。</b></p>	
+	<p><b>隨著智慧型手機的普及，孩童使用3C產品的機會大增，許多父母都因為小孩子玩手機不會吵鬧，便放任孩童玩得盡興，
+			<br>以圖安靜，造成近十年來孩童近視的比例巨幅的增加。其實，近視是一種疾病，且大於500度的高度近視容易產生早年性白內障、
+			<br>青光眼、視網膜剝離及黃斑部病變等多項問題，甚至10％會導致失明，我們都需要多加留意！</b></p>				
+</body>
+</html>
